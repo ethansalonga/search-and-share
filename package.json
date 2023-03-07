@@ -1,7 +1,6 @@
 {
-  "name": "understanding-typescript",
+  "name": "share-and-search",
   "version": "1.0.0",
-  "description": "Understanding TypeScript Course Setup",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,7 +10,6 @@
     "typescript",
     "course"
   ],
-  "author": "Maximilian Schwarzmüller",
   "license": "ISC",
   "devDependencies": {
     "ts-loader": "^9.4.2",
